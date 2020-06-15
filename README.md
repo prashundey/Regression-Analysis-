@@ -1,2 +1,2 @@
-# Regression-Analysis-
+# Regression-Analysis
 Linear and Multi Linear Regression 
